@@ -1,0 +1,43 @@
+*{
+   padding: 0%;
+   margin: 0%;
+}
+
+.container{
+    padding-top: 10px;
+
+    justify-content: center;
+    align-items: center;
+    background-color:rgb(182, 208, 227);
+    width:450px;
+    height:550px;
+    
+    margin-left: 500px;
+    margin-top: 20px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+}
+.frm{
+    margin-left:60px;
+    border-radius: 5px;
+    width: 50vw;
+    
+
+}
+input{
+    width: 350px;
+    font-size:22px;
+    border-radius: 10px;
+}
+
+h1{
+    font-size: 40px;
+    
+  
+   
+}
+.box{
+    height: 100vh;
+    
+    background-color: rgb(243, 225, 239);
+}

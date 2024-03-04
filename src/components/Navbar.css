@@ -1,0 +1,22 @@
+.nav{
+    height:80px;
+    text-decoration: none;
+    background-color: rgb(72, 63, 141);
+   
+   
+}
+.navlist{
+    display: flex;
+    padding-left: 1000px;
+    padding-top: 2px;
+    font-size: 27px;
+  
+    
+}
+ul{
+    list-style: none;
+}
+li{
+    margin: 20px;
+
+}
